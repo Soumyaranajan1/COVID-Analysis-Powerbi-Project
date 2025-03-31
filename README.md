@@ -1,4 +1,6 @@
 # Power BI COVID-19 Analysis Project
+![Screenshot 2025-03-31 112717](https://github.com/user-attachments/assets/12c191bd-f46f-46ff-81c9-2c48a2d8b53c)
+
 
 ## Project Overview
 This Power BI project provides an interactive dashboard for analyzing COVID-19 data. The report consists of three pages:
